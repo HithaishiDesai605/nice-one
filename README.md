@@ -9,6 +9,10 @@
 `Read the documentation to know how to use the bot`
 <br>
 <br>
+
+# DEPLOY TO RAILWAY
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Gp175A?referralCode=giFRC4)
         
 <p align="center">
     <a href="https://www.python.org">
