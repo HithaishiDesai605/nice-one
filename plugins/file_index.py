@@ -1,4 +1,4 @@
-#----------------------------------- https://github.com/m4mallu/clonebot-ui -----------------------------------------#
+#----------------------------------- -----------------------------------------#
 import asyncio
 from bot import Bot
 from library.sql import *
